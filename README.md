@@ -1,2 +1,2 @@
 # medical-data
-Medical data contains information related to doctors, no of admissions, patients,provincenames
+Medical data contains information related to doctors,patients,provincenames
